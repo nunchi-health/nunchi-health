@@ -29,6 +29,7 @@ pnpm-debug.log*
 !.dev.vars.example
 !.env.example
 
-workers\staff-sync\python_modules
-workers\staff-sync\.venv
-workers\staff-sync\.venv-workers
+workers/staff-sync/python_modules
+workers/staff-sync/.venv
+workers/staff-sync/.venv-workers
+workers/staff-sync/python_modules/workers/types.py
