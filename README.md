@@ -11,7 +11,9 @@ Stripe Checkout for e-commerce functionality
 Might shift to Payload CMS or Sanity Studio to help non-techincal staff design new pages or at the very least update existing ones
 
 ### How to get started?
-npm run dev — in your terminal to run the webpage on a localhost server
+Run these commands
+npm install
+npm run dev
 
 Try your hand at replicating any of the pages currently up for grabs! 
 
