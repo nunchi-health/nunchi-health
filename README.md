@@ -5,7 +5,7 @@ The priority is accessibility, performance, responsiveness and becoming ad-grant
 
 ## Tech Stack
 Astro.js, React.js + HTML & SCSS
-Cloudflare Pages & Workers
+Cloudflare Pages & Workers + Python
 Stripe Checkout for e-commerce functionality
 
 Might shift to Payload CMS or Sanity Studio to help non-techincal staff design new pages or at the very least update existing ones
